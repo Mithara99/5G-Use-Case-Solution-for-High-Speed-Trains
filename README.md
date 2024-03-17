@@ -4,7 +4,13 @@ High Speed Train (HSTs) use case is an essential part of the overall 5G experien
 
 Mobile App:
 
-![App 7](https://github.com/Mithara99/5G-Use-Case-Solution-for-High-Speed-Trains/assets/109811098/cb3e83e5-b619-4bf8-b179-5af99b105572)
+![App 1](https://github.com/Mithara99/5G-Use-Case-Solution-for-High-Speed-Trains/assets/109811098/be3b62d4-ef64-425a-96ef-fc9b860dd4bf)
+![App 2](https://github.com/Mithara99/5G-Use-Case-Solution-for-High-Speed-Trains/assets/109811098/e40c9b2d-f367-4531-8edd-5bfe43848cda)
+![App 3](https://github.com/Mithara99/5G-Use-Case-Solution-for-High-Speed-Trains/assets/109811098/0c526c4c-e41c-40bf-aa4c-4734dc06c1fa)
+![App 4](https://github.com/Mithara99/5G-Use-Case-Solution-for-High-Speed-Trains/assets/109811098/1f3e98c2-d1ac-4b70-81fa-d9562efd2b57)
+![App 5](https://github.com/Mithara99/5G-Use-Case-Solution-for-High-Speed-Trains/assets/109811098/8341f9e1-7dab-46b0-ac00-876459dbb4df)
+![App 6](https://github.com/Mithara99/5G-Use-Case-Solution-for-High-Speed-Trains/assets/109811098/fa086465-b078-48cb-aabd-36d77c99f951)
+![App 7](https://github.com/Mithara99/5G-Use-Case-Solution-for-High-Speed-Trains/assets/109811098/8d53d3db-2fac-4019-b966-3f25053353b9)
 
 
 Solution Video:
