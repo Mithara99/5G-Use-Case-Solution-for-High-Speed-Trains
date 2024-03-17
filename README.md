@@ -4,3 +4,6 @@ High Speed Train (HSTs) use case is an essential part of the overall 5G experien
 
 Solution Video:
 [video](https://drive.google.com/file/d/1_5NEqIPfcEVdB9U5SLZu0orcHA_jtoj1/view?usp=sharing)
+
+Paper: 
+[link](https://www.overleaf.com/read/ywdshfvkqpkv#710d3b)  
